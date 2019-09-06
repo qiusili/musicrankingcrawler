@@ -1,0 +1,4 @@
+Main-Class: main.JsonReader
+Class-Path: main/java-json.jar main/jsoup-1.11.3.jar
+
+
